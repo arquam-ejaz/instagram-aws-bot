@@ -1,0 +1,1 @@
+C:\Users\arqua\AppData\Local\Programs\Python\Python38-32\python.exe "E:\PythonProjects\Android Automation\Instagram-Neutrino Bot Github\automateAndroid.py"
